@@ -20,6 +20,7 @@ A responsive weather application built using React.js and a weather API. Users c
 - Weather API
  ## Project Preview
 
-- weather-app/Screenshot 2026-09-26 210733.png
+
+- ![Weather App Preview](./weather-app/Screenshot%202026-09-26%20210733.png)
 
 
